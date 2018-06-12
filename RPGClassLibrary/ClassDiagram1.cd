@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RPGClassLibrary.Item">
+    <Position X="4.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>DatabaseEnitites\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGClassLibrary.JournalRecord">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAgAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DatabaseEnitites\JournalRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGClassLibrary.Player">
+    <Position X="10.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACECAAAgAAAAAAAAAgAAAAAIAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>DatabaseEnitites\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGClassLibrary.PlayerQuest">
+    <Position X="8.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAAIIIAQAAAAA=</HashCode>
+      <FileName>DatabaseEnitites\PlayerQuest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGClassLibrary.PlayerRecord">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAIAQAAAAA=</HashCode>
+      <FileName>DatabaseEnitites\PlayerRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGClassLibrary.Quest">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAAAAAAAAgAAAAAIAAIAAAAACAAAAACAAEAAAA=</HashCode>
+      <FileName>DatabaseEnitites\Quest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGClassLibrary.Equipment">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAABCAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Equipment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGClassLibrary.EquipmentManager">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="RPGClassLibrary.EquipmentManager.OnEquipmentChanged" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>EquipmentManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAACAAAAgAAAAAIAAAAA=</HashCode>
+      <FileName>EquipmentManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGClassLibrary.JournalHandler">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>JournalHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGClassLibrary.Modifier">
+    <Position X="16" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAQAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modifier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGClassLibrary.NameGenerator">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAABAAAAIAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NameGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGClassLibrary.PlayerManager">
+    <Position X="14.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQEAAAAAAAAAQgAAACBAABQABEgACCABAAAgAABIA=</HashCode>
+      <FileName>PlayerManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGClassLibrary.Stat">
+    <Position X="12.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YJAAIAgAAAIAAAAAAgCABgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Stat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="RPGClassLibrary.EquipmentSlot" Collapsed="true">
+    <Position X="3" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAYAAAAAAEAAA=</HashCode>
+      <FileName>DatabaseEnitites\Item.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RPGClassLibrary.QuestState">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAQAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DatabaseEnitites\PlayerQuest.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

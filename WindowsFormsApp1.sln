@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{89DABEC8-4C0F-491E-8A67-AC50B864735E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPGClassLibrary", "RPGClassLibrary\RPGClassLibrary.csproj", "{253C9D3F-EDA6-4379-BD85-519DAACFAB47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89DABEC8-4C0F-491E-8A67-AC50B864735E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DABEC8-4C0F-491E-8A67-AC50B864735E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DABEC8-4C0F-491E-8A67-AC50B864735E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DABEC8-4C0F-491E-8A67-AC50B864735E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253C9D3F-EDA6-4379-BD85-519DAACFAB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253C9D3F-EDA6-4379-BD85-519DAACFAB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253C9D3F-EDA6-4379-BD85-519DAACFAB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253C9D3F-EDA6-4379-BD85-519DAACFAB47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCB3071F-ADA1-4F44-A888-629B930CF630}
+	EndGlobalSection
+EndGlobal
