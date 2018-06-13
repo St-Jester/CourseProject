@@ -210,7 +210,7 @@ namespace WindowsFormsApp1
 		private void Form1_FormClosed(object sender, FormClosedEventArgs e)
 		{
 			this.Owner.Enabled = true;
-			m_StopThread = true;
+			//m_StopThread = true;
 		}
 
 		public void SaveProgress()
